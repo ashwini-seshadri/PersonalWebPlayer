@@ -1,4 +1,4 @@
-# DevProjects - Personal YouTube web player
+# DevProjects - Personal web player
 
 This is an open source project from [DevProjects](http://www.codementor.io/projects). Feedback and questions are welcome!
 Find the project requirements here: [Personal YouTube web player](https://www.codementor.io/projects/web/personal-youtube-web-player-au63vmgocm)
